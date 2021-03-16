@@ -1,0 +1,9 @@
+INFO     WebUIAuto:log.py:48 测试用例名字为：请输入密码
+INFO     WebUIAuto:log.py:48 页面刷新
+INFO     WebUIAuto:log.py:48 输入账户
+DEBUG    WebUIAuto:log.py:45 输入账户为：admin
+INFO     WebUIAuto:log.py:48 输入密码
+DEBUG    WebUIAuto:log.py:45 输入密码为：
+INFO     WebUIAuto:log.py:48 点击登录
+INFO     WebUIAuto:log.py:48 测试用例执行成功
+INFO     WebUIAuto:log.py:48 进行截图操作

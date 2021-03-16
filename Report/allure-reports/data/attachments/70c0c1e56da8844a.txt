@@ -1,0 +1,12 @@
+INFO     WebUIAuto:log.py:48 请求链接
+INFO     WebUIAuto:log.py:48 链接地址为：http://fssc200.csztessc.com.cn:8085/public
+INFO     WebUIAuto:log.py:48 测试用户登录场景
+INFO     WebUIAuto:log.py:48 测试用例名字为：账号密码不匹配
+INFO     WebUIAuto:log.py:48 页面刷新
+INFO     WebUIAuto:log.py:48 输入账户
+DEBUG    WebUIAuto:log.py:45 输入账户为：test
+INFO     WebUIAuto:log.py:48 输入密码
+DEBUG    WebUIAuto:log.py:45 输入密码为：zfs123456
+INFO     WebUIAuto:log.py:48 点击登录
+ERROR    WebUIAuto:log.py:54 出现异常，异常信息为：<class 'AssertionError'>
+INFO     WebUIAuto:log.py:48 进行截图操作

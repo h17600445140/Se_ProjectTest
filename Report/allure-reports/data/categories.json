@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 1 == 0\n  +1\n  -0",
+      "children" : [ {
+        "name" : "test_login[账号密码不匹配]",
+        "uid" : "a656b06c6939e5de",
+        "parentUid" : "c0a776b5fa3eec3868aa5e8e96941f56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615544787679,
+          "stop" : 1615544788995,
+          "duration" : 1316
+        },
+        "flaky" : false,
+        "parameters" : [ "{'number': '1', 'casename': '账号密码不匹配', 'severity': 'blocker', 'account': 'test', 'password': 'zfs123456'}" ]
+      } ],
+      "uid" : "c0a776b5fa3eec3868aa5e8e96941f56"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

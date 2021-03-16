@@ -1,0 +1,51 @@
+[ {
+  "uid" : "c81536eb4107e3e5",
+  "name" : "test_login[请输入账户名称]",
+  "time" : {
+    "start" : 1615544789026,
+    "stop" : 1615544790234,
+    "duration" : 1208
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ec82c355faddb7e2",
+  "name" : "test_login[登陆成功]",
+  "time" : {
+    "start" : 1615544792334,
+    "stop" : 1615544793790,
+    "duration" : 1456
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "a656b06c6939e5de",
+  "name" : "test_login[账号密码不匹配]",
+  "time" : {
+    "start" : 1615544787679,
+    "stop" : 1615544788995,
+    "duration" : 1316
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "392d09b6d01048a1",
+  "name" : "test_login[请输入密码]",
+  "time" : {
+    "start" : 1615544790236,
+    "stop" : 1615544791456,
+    "duration" : 1220
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "606a38daca0f2bd",
+  "name" : "test_login[当前登录用户名或密码错误]",
+  "time" : {
+    "start" : 1615544791458,
+    "stop" : 1615544792332,
+    "duration" : 874
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]
